@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 
-Full Resume [link](https://github.com/rahul7rajdn/rahul7rajdn.github.io/blob/master/files/Resume_Rahul_Raj_DN_Fulltime.pdf)
+Full Resume [link](https://rahul7rajdn.github.io/files/Resume_Rahul_Raj_DN_Fulltime.pdf)
 
 Education
 ======
@@ -21,7 +21,7 @@ Work experience
 * Wi-Fi MAC RTL Design Intern, Qualcomm (May 2025 - August 2025)
 * ASIC Engineer, Cisco (February 2023 - July 2024)
 * Software Engineer, Cisco (October 2021 - February 2023)
-* Technical Undergraduate Intern (February 2021 - July 2021)
+* Technical Undergraduate Intern, Cisco (February 2021 - July 2021)
 
   
 Skills
@@ -38,6 +38,8 @@ Skills
 * Static Timing Analysis
 * Low Power VLSI Design
 * FPGA
+* openMPI
+* Apptainer
   
   
 Languages
