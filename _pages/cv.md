@@ -8,20 +8,11 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Wi-Fi MAC RTL Design Intern, Qualcomm (May 2025 - August 2025)
+* ASIC Engineer, Cisco (February 2023 - July 2024)
+* Software Engineer, Cisco (October 2021 - February 2023)
+* Technical Undergraduate Intern (February 2021 - July 2021)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -36,6 +27,9 @@ Skills
 * CDC
 * Static Timing Analysis
 * FPGA
-
-
+  
+  
+Languages
+======
+* C, C++, Python, Verilog, System Verilog, Tcl, Perl, Assembly, CUDA
 
