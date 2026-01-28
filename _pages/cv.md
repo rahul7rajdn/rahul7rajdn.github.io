@@ -29,6 +29,7 @@ Skills
 * Computer Architecture
 * Performance Modeling
 * Memory
+* GPU Architecture
 * Digital VLSI Design
 * Microarchitecture
 * RTL Design
@@ -44,5 +45,9 @@ Skills
   
 Languages
 ======
-* C, C++, Python, Verilog, System Verilog, Tcl, Perl, Assembly, CUDA
+C / C++, Assembly, Verilog / System Verilog, Python, Perl, Tcl, MATLAB, Bash scripting, CUDA 
+
+Tools
+======
+Synopsys VCS, Verdi, Xilinx Vivado, Cadence Virtuoso, Intel ModelSim
 
