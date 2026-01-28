@@ -1,5 +1,15 @@
-
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 {% include base_path %}
+
+
+Full Resume [link](https://github.com/rahul7rajdn/rahul7rajdn.github.io/blob/master/files/Resume_Rahul_Raj_DN_Fulltime.pdf)
 
 Education
 ======
@@ -26,6 +36,7 @@ Skills
 * Logic Synthesis
 * CDC
 * Static Timing Analysis
+* Low Power VLSI Design
 * FPGA
   
   
